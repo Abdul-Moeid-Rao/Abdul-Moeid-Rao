@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abdul-Moeid-Rao
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning backend web development
-- here my portfolio.
-- this include html, css, and js ant it is totaly responsive.
+
 - 
